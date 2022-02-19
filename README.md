@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 About me
 
-<!--
-**parasdarmal/parasdarmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hey! my name is Paras Darmal a software engineer at [Incedo](https://www.incedoinc.com/) working out of New Delhi, India
+- 👩‍💻 I’m currently learning React JS
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/paras-darmal-he-him-73582b1b0/)
+- 😄 Pronouns: He / Him
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Programming language: Java, JavaScript
+- 🌐 Web development: ReactJs, HTML, CSS, Oracle APEX
+- 🛢 Database Technologies: Oracle SQL, PL/SQL
+- 📚 Coursework: Data structures and Algorithms, Operating Systems, DBMS, and Computer Networks
